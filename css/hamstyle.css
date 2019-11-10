@@ -14,9 +14,10 @@ body {
   color: white;
 }
 
-.hamnav {
-  position: absolute;
+
+#hamburger {
   width: 20%;
   height: 30%;
   border: solid blue;
+  background-color: green;
 }
